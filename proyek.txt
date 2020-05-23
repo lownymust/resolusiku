@@ -1,4 +1,7 @@
-Proyek
+Proyek Koding
 - Membuat kalkulator rumus
 - Membuat Game card
-- Mini Project
+- Membuat sistem chat terenskripsi
+
+Proyek offline
+- Usaha gelang
