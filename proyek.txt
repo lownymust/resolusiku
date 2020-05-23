@@ -1,0 +1,4 @@
+Proyek
+- Membuat kalkulator rumus
+- Membuat Game card
+- Mini Project
