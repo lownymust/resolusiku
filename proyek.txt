@@ -5,6 +5,9 @@ Proyek Koding
 
 Proyek offline
 - Usaha gelang
+- Jualan pulsa
 
 Proyek entertaint
 - Membuat chanel yt
+  ^ upload konten informatif
+  ^ upload seminggu sekali
