@@ -5,9 +5,10 @@ Proyek Koding
 
 Proyek offline
 - Usaha gelang
-- Jualan pulsa
+- Jual pulsa
 
-Proyek entertaint
+Proyek surface
 - Membuat chanel yt
   ^ upload konten informatif
   ^ upload seminggu sekali
+- Membuat akun twitter
