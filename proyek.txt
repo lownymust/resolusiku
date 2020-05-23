@@ -9,4 +9,6 @@ Proyek offline
 
 Proyek surface
 - Membuat chanel yt
+  ^ upload konten informatif
+  ^ upload seminggu sekali
 - Membuat akun twitter
